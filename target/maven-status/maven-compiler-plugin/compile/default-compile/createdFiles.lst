@@ -1,0 +1,6 @@
+local\AbstractEvent$1.class
+local\config\kafka\KafkaProcessor.class
+local\AbstractEvent.class
+local\PolicyHandler.class
+local\OrderRequested.class
+local\OrderCanceled.class
